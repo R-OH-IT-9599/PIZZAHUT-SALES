@@ -9,9 +9,7 @@ This project is a data analysis of Pizza Hut sales using MySQL to gain insights 
 ### Discount Effectiveness:
 SQL queries to analyze the impact of various discount strategies on sales.<br/>
 Allows Pizza Hut to assess which discounts work best for boosting sales.<br/>
-## PROJECT HIGHLIGHT 
-Impactful Insights: By showcasing how your analysis led to actionable insights, you demonstrate the real-world value of your work.<br/>
-Practical Recommendations: Your ability to provide recommendations based on data (e.g., for discount strategies, inventory management, customer retention) shows your strategic thinking and business acumen.<br/>
+
 
 
 
